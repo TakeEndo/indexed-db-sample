@@ -65,7 +65,7 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
-        this.title = 'indexd db sample';
+        this.title = 'indexed db sample';
         this.db_name = 'sampleDB';
         this.store_name = 'sampleStore';
         this.input_id = '';
