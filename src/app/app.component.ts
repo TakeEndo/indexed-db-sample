@@ -7,7 +7,7 @@ import {Component, OnInit} from '@angular/core';
 })
 
 export class AppComponent implements OnInit {
-  title = 'indexd db sample';
+  title = 'indexed db sample';
   db_name = 'sampleDB';
   store_name  = 'sampleStore';
   input_id = '';
